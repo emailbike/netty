@@ -62,3 +62,5 @@ are listed below:
 
 Automatic modules do not provide any means to declare dependencies, so you need to list each used module separately 
 in your `module-info` file.
+
+Learn From 32 Lessons to Study
